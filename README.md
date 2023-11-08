@@ -1,5 +1,5 @@
-# ICTer International Conference 2023 - Post-Conference Workshop: 
-## Forensic Insights from Electromagnetic Radiation
+# ICTer International Conference 2023
+## Workshop: Forensic Insights from Electromagnetic Radiation
 
 ### 1. Introduction
 Our digital electronics generate electromagnetic radiation. These radiation patterns are shown to be correlating with the internal operations of electronics circuitry. Electromagnetic side-channel analysis (EM-SCA) is the field that exploits electromagnetic radiation emitted from computing devices to exfiltrate sensitive information. EM-SCA can take us to places where the classical digital forensics approaches cannot go. This workshop is aimed at providing the foundation into the exciting field of EM-SCA for digital forensics, arming the participants with the required skills and directions to go deep into this field. During this full-day workshop, the participants will be exposed to the Software Defined Radio (SDR) equipment that can be used to acquire electromagnetic radiation, i.e., HackRF SDRs, and the procedure to capture, process, and analyse electromagnetic radiation from various smart and embedded devices to extract forensically-useful insights.
@@ -36,7 +36,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund **12 GB**. After uncompressing, it will be around **53 GB**. There are two ways to get the EM dataset.
 
 #### Option 1:
-At the workshop venue, we will provide plenty of USB sticks that contains the dataset. You can simply copy the dataset from such a USB stick to your computer during the workshop.
+At the workshop venue, we will provide plenty of USB sticks that contain the dataset. You can simply copy the dataset from such a USB stick to your computer during the workshop.
 
 #### Option 2:
 If you prefer to have the dataset in advance, you can download it from the following URL: https://aseados.ucd.ie/datasets/EMSCA/em-dataset.h5.gz
