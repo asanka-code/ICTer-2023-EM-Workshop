@@ -11,32 +11,32 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 2. Hardware security.
 3. Challenges in digital forensics.
 
-#### Part 2 (Morning):
+#### Part 2 (Morning after the tea break):
 4. Software-defined radio hardware.
 5. Software-defined radio software.
    
-#### Part 3 (Afternoon):
+#### Part 3 (Afternoon after lunch):
 6. Electromagnetic trace data acquisition.
 7. Electromagnetic trace data processing.
 
-#### Part 4 (Afternoon):
+#### Part 4 (Afternoon after tea break):
 8. Exploring a large electromagnetic dataset.
 9. Training machine learning models on electromagnetic data.
 10. Conclusion.
 
 ### Preparing Your Computer for the Workshop
 
-1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. We recommend *Ubuntu 22.04 LTS* distribution.
-2. Install the following packages on the computer (using *apt* package manager on Ubuntu):
+1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. We recommend **Ubuntu 22.04 LTS** distribution. If you are going to go with a virtual machine, provide adequate disk space for it to hold the dataset.
+2. Install the following packages on the computer (using **apt** package manager on Ubuntu):
    - sudo apt install gqrx-sdr jupyter python3-pandas python3-matplotlib python3-numpy python3-scipy python3-sklearn python3-h5py
    - *stay prepared to install any additional libraries on the go if needed*
 
 ### Getting the Dataset
 
-In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund 12 GB. After uncompressing, it will be around 53 GB. There are two ways to get the EM dataset.
+In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund **12 GB**. After uncompressing, it will be around **53 GB**. There are two ways to get the EM dataset.
 
 #### Option 1:
-At the workshop venue, we will provide plenty of USB sticks that have the dataset. You can simply copy the dataset from such a USB stick to your computer during the workshop.
+At the workshop venue, we will provide plenty of USB sticks that contains the dataset. You can simply copy the dataset from such a USB stick to your computer during the workshop.
 
 #### Option 2:
 If you prefer to have the dataset in advance, you can download it from the following URL: https://aseados.ucd.ie/datasets/EMSCA/em-dataset.h5.gz
