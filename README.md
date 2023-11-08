@@ -26,7 +26,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 
 ### 3. Preparing Your Computer for the Workshop
 
-1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. We recommend **Ubuntu 22.04 LTS** distribution. If you are going to go with a virtual machine, provide adequate disk space for it to hold the dataset.
+1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. We recommend **Ubuntu 22.04 LTS** distribution. If you are going with a virtual machine, allocate adequate disk space for it to hold the dataset.
 2. Install the following packages on the computer (using **apt** package manager on Ubuntu):
    - sudo apt install gqrx-sdr jupyter python3-pandas python3-matplotlib python3-numpy python3-scipy python3-sklearn python3-h5py
    - *stay prepared to install any additional libraries on the go if needed*
