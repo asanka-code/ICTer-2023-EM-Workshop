@@ -33,7 +33,7 @@ Our digital electronics generate electromagnetic radiation. These radiation patt
 
 ### 4. Getting the Dataset
 
-In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund **12 GB**. After uncompressing, it will be around **53 GB**. There are two ways to get the EM dataset.
+In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund **12 GB**. After uncompressing, it will be around **53 GB**. Please note that you only need this dataset in the Part 4 of the workshop. So, you can cover most of the workshop activities without the dataset. There are two ways to get the EM dataset.
 
 #### Option 1:
 At the workshop venue, we will provide plenty of USB sticks that contain the dataset. You can simply copy the dataset from such a USB stick to your computer during the workshop.
