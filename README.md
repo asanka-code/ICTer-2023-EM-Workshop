@@ -1,37 +1,37 @@
 # ICTer International Conference 2023 - Post-Conference Workshop: 
 ## Forensic Insights from Electromagnetic Radiation
 
-### Introduction
+### 1. Introduction
 Our digital electronics generate electromagnetic radiation. These radiation patterns are shown to be correlating with the internal operations of electronics circuitry. Electromagnetic side-channel analysis (EM-SCA) is the field that exploits electromagnetic radiation emitted from computing devices to exfiltrate sensitive information. EM-SCA can take us to places where the classical digital forensics approaches cannot go. This workshop is aimed at providing the foundation into the exciting field of EM-SCA for digital forensics, arming the participants with the required skills and directions to go deep into this field. During this full-day workshop, the participants will be exposed to the Software Defined Radio (SDR) equipment that can be used to acquire electromagnetic radiation, i.e., HackRF SDRs, and the procedure to capture, process, and analyse electromagnetic radiation from various smart and embedded devices to extract forensically-useful insights.
 
-### Workshop Agenda
+### 2. Workshop Agenda
 
-#### Part 1 (Morning):
+#### Part 1:
 1. Introduction.
 2. Hardware security.
 3. Challenges in digital forensics.
 
-#### Part 2 (Morning after the tea break):
+#### Part 2:
 4. Software-defined radio hardware.
 5. Software-defined radio software.
    
-#### Part 3 (Afternoon after lunch):
+#### Part 3:
 6. Electromagnetic trace data acquisition.
 7. Electromagnetic trace data processing.
 
-#### Part 4 (Afternoon after tea break):
+#### Part 4:
 8. Exploring a large electromagnetic dataset.
 9. Training machine learning models on electromagnetic data.
 10. Conclusion.
 
-### Preparing Your Computer for the Workshop
+### 3. Preparing Your Computer for the Workshop
 
 1. You need to have a computer with a GNU/Linux operating system running natively or as a virtual machine. We recommend **Ubuntu 22.04 LTS** distribution. If you are going to go with a virtual machine, provide adequate disk space for it to hold the dataset.
 2. Install the following packages on the computer (using **apt** package manager on Ubuntu):
    - sudo apt install gqrx-sdr jupyter python3-pandas python3-matplotlib python3-numpy python3-scipy python3-sklearn python3-h5py
    - *stay prepared to install any additional libraries on the go if needed*
 
-### Getting the Dataset
+### 4. Getting the Dataset
 
 In this workshop, we will be using an EM dataset. In compressed form, it has a size of arund **12 GB**. After uncompressing, it will be around **53 GB**. There are two ways to get the EM dataset.
 
